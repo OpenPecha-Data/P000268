@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །གསང་སྔགས་རྙིང་མའི་ཐེག་པ་དགུའི་འཇུག་སྒོ་ལས། དང་པོ་སྐྱབས་སུ་འགྲོ་བ་སྦྱིན་པའི་ཆོ་ག་ཤིན་ཏུ་བསྡུས་པ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་ཆགས་མེད།
+  sku: SHE-RTD-009
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Extremely Concise Ritual for Bestowing Refuge Vow According to the Nine
+      Yanas of Nyingma Tradition
+    bo: གསང་སྔགས་རྙིང་མའི་ཐེག་པ་དགུའི་འཇུག་སྒོ་ལས། དང་པོ་སྐྱབས་སུ་འགྲོ་བ་སྦྱིན་པའི་ཆོ་ག་ཤིན་ཏུ་བསྡུས་པ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 9
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༩
+  author:
+    en: Karma Chakme
+    bo: ཀརྨ་ཆགས་མེད།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-009
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-009.epub
+  description:
+    en: ''
+    bo: ''
