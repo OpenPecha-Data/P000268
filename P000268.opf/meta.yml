@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000268
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གསང་སྔགས་རྙིང་མའི་ཐེག་པ་དགུའི་འཇུག་སྒོ་ལས། དང་པོ་སྐྱབས་སུ་འགྲོ་བ་སྦྱིན་པའི་ཆོ་ག་ཤིན་ཏུ་བསྡུས་པ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། ཀརྨ་ཆགས་མེད།
-  sku: SHE-RTD-009
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-RTD-009
 web_metadata:
   title:
     en: An Extremely Concise Ritual for Bestowing Refuge Vow According to the Nine
