@@ -2,67 +2,67 @@ id: fe79a868bf2447e39e0fa5d059f16ec2
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: 08eb1161f8764bcb9cbdcba16f7ee6f8
-  span:
-    start: 159
-    end: 411
-- id: d9ae6fcce4bf4df08906058c452a8bde
-  span:
-    start: 2084
-    end: 2134
-- id: 3ceba5b2bbc54884ab691511430fec1d
-  span:
-    start: 2755
-    end: 2811
-- id: e51fdefcfb7241b2a60acb55f81f2e11
-  span:
-    start: 2946
-    end: 2948
-- id: afacdc3f616b4791b762409c5b2ad56e
-  span:
-    start: 3289
-    end: 3313
-- id: 55cf8be7d9a3474e9dc8e38f58f99951
-  span:
-    start: 3878
-    end: 3885
-- id: 4fb0836e068641249be4771574a57cf6
-  span:
-    start: 3898
-    end: 3907
-- id: cccb8ff0b55446f69dca25cbe832fa03
-  span:
-    start: 3918
-    end: 3927
-- id: c500d6ec305b477aa4dfb636e2b53259
-  span:
-    start: 6068
-    end: 6133
-- id: 59d1fa0ee3524801a0cbcdda753a25c1
-  span:
-    start: 6153
-    end: 6171
-- id: b540135af3364da3bf50fe6d8f59c1dc
-  span:
-    start: 6180
-    end: 6250
-- id: fed15dccffdc47628d9fdb243d9b2166
-  span:
-    start: 6718
-    end: 6723
-- id: cef566c8b17d48fea159051bb05c3ac2
-  span:
-    start: 6730
-    end: 6733
-- id: 8cac05d2d11c49c98a481b3a66d55ce8
-  span:
-    start: 6770
-    end: 6787
-- id: b692bb359e7545fbb0d1b107be41fda5
-  span:
-    start: 7100
-    end: 7126
-- id: 24525b49302a4a88bdea9ea47d3708dd
-  span:
-    start: 7228
-    end: 7769
+  08eb1161f8764bcb9cbdcba16f7ee6f8:
+    span:
+      start: 159
+      end: 411
+  d9ae6fcce4bf4df08906058c452a8bde:
+    span:
+      start: 2084
+      end: 2134
+  3ceba5b2bbc54884ab691511430fec1d:
+    span:
+      start: 2755
+      end: 2811
+  e51fdefcfb7241b2a60acb55f81f2e11:
+    span:
+      start: 2946
+      end: 2948
+  afacdc3f616b4791b762409c5b2ad56e:
+    span:
+      start: 3289
+      end: 3313
+  55cf8be7d9a3474e9dc8e38f58f99951:
+    span:
+      start: 3878
+      end: 3885
+  4fb0836e068641249be4771574a57cf6:
+    span:
+      start: 3898
+      end: 3907
+  cccb8ff0b55446f69dca25cbe832fa03:
+    span:
+      start: 3918
+      end: 3927
+  c500d6ec305b477aa4dfb636e2b53259:
+    span:
+      start: 6068
+      end: 6133
+  59d1fa0ee3524801a0cbcdda753a25c1:
+    span:
+      start: 6153
+      end: 6171
+  b540135af3364da3bf50fe6d8f59c1dc:
+    span:
+      start: 6180
+      end: 6250
+  fed15dccffdc47628d9fdb243d9b2166:
+    span:
+      start: 6718
+      end: 6723
+  cef566c8b17d48fea159051bb05c3ac2:
+    span:
+      start: 6730
+      end: 6733
+  8cac05d2d11c49c98a481b3a66d55ce8:
+    span:
+      start: 6770
+      end: 6787
+  b692bb359e7545fbb0d1b107be41fda5:
+    span:
+      start: 7100
+      end: 7126
+  24525b49302a4a88bdea9ea47d3708dd:
+    span:
+      start: 7228
+      end: 7769
